@@ -199,3 +199,7 @@ footer{
 	background-color: #e8491d;
 	text-align: center;
 }
+
+header nav a:hover {
+	border-bottom: gold 2px solid ;
+}
