@@ -209,14 +209,14 @@ img{
 	height: 600px;
 	margin: 10px;
 }
-
+/*
 .slide-img p{
 	text-align: center;
 	font-size: 20px;
 	color: red;
 	padding: 0;
 }
-
+*/
 /* To hide slide images*/
 .images {
 	display: none;
@@ -224,7 +224,15 @@ img{
 
 .slide-img h5 {
 	font-size: 20px;
-	color: red;
+	color: blue;
 	text-align: center;
 }
 
+#btn-next {
+	float: right;
+}
+
+.still-images{
+	display: inline-flex;
+	width: 50%;
+	}
